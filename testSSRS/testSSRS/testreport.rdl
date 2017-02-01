@@ -13,7 +13,7 @@
               <Paragraph>
                 <TextRuns>
                   <TextRun>
-                    <Value>This is not a test</Value>
+                    <Value>This is not a test. luan</Value>
                     <Style />
                   </TextRun>
                 </TextRuns>
@@ -24,7 +24,7 @@
             <Top>0.305in</Top>
             <Left>0.53833in</Left>
             <Height>0.25in</Height>
-            <Width>1in</Width>
+            <Width>2.86667in</Width>
             <Style>
               <Border>
                 <Style>None</Style>
